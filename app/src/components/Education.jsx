@@ -31,7 +31,7 @@ function Education(){
             <ul className="description">
 	            	<li> Courses Taken: Game Development and Design, Introduction to Danish, Photojournalism, Innovation Through Design Thinking </li>
 	           		<li><a href= "https://copenhagenadventures.home.blog/" target="_blank" className="website-link" rel="noopener noreferrer"> Student Blogger </a>for the Computer Science course </li>
-	           		<li>Collaborated in a group for 4 students and used <a href= "https://medium.com/@shannonmakenna/design-thinking-5fd959fbcaaf" target="_blank" className="website-link" rel="noopener noreferrer"> Design Thinking </a>to creatively implement a toolbox of life skills that young adults require to navigate post-school life</li>
+	           		<li>Collaborated in a group for 4  students and used <a href= "https://medium.com/@shannonmakenna/design-thinking-5fd959fbcaaf" target="_blank" className="website-link" rel="noopener noreferrer"> Design Thinking </a>to creatively implement a toolbox of life skills that young adults require to navigate post-school life</li>
             </ul>
         </div>
     </div>
